@@ -43,5 +43,6 @@ Pastikan jendela *keyboard* aktif dalam bahasa Inggris (bukan Capslock aktif) sa
 
 ## 👨‍💻 Author
 
-Dikembangkan oleh **Rangga (pgrl)**.
+Dikembangkan oleh pgrl
+
 Jangan ragu untuk melakukan *fork*, memberikan *star*, atau memodifikasi kode ini untuk bereksperimen dengan fitur-fitur baru!
